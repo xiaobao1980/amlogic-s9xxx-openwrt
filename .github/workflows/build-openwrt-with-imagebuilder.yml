@@ -62,6 +62,7 @@ on:
           - lckfb-tspi
           - leez
           - lx-r3s
+          - lubancat-2n
           - mrkaio-m68s
           - nanopc-t6
           - nanopi-r5c
